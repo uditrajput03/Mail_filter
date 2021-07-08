@@ -1,5 +1,6 @@
 # Mail_filter
-this is used to filter mail from combo
+
+Place combo file in the same folder
 
 Hey everyone,this programm is use to filter mail in combo. basically it search for domain you enter in the programm and copy it to another file
 
