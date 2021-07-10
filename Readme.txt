@@ -1,6 +1,6 @@
 PLace combo file in same folder
 
-Hey everyone,this programm is use to filter mail in combo. basically it search for domain you enter in the programm and copy it to another file
+Hey everyone,this programm is use to filter mail in combo. basically it search for domain you enter in the programm and copy it to another file named as domain name.
 
 *************************Source code and GITHUB profile*************************
 
